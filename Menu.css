@@ -36,12 +36,6 @@ overflow-x: hidden;
   text-align:right;
   font-size: 8rem;
 }
-/* @media screen and (max-width:769px){
-  #hero-vid video{
-    width: auto;
-    height: 100%;
-  }
-} */
 /* --------------------------------------- */
 #Food-Items{
     display: grid;
@@ -73,7 +67,7 @@ overflow-x: hidden;
 }
 @media screen and (max-width:769px){
   .food-item{
-    width: 85%;
+    width: 83%;
   }
 }
 /* ------------------footer-------------- */
